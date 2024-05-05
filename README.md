@@ -70,7 +70,7 @@ while True:
 ![Screenshot 2024-05-05 123017](https://github.com/KrishnaPrasad148/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147332763/b44c6de4-76a0-4716-832e-61b00ace6635)
 
 
-#### Recieved file :
+### Recieved file :
 
 ![Screenshot 2024-05-05 123057](https://github.com/KrishnaPrasad148/3c.FILE_TRANSFER_USING_TCP_SOCKETS/assets/147332763/5f005112-38d2-49df-8504-ccbde9983b82)
 
